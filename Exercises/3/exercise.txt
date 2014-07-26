@@ -1,0 +1,3 @@
+Lets not mix the code for displaying with the functionality. 
+Move the Validate function out of the script tags and in to a separate JavaScript file.
+Include the file in your HTML page.

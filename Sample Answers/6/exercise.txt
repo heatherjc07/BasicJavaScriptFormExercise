@@ -1,0 +1,11 @@
+Rather than having an alert display after each field is checked we want to display all the errors on screen in one go to the user.
+Each error should be displayed beside the field it relates to.
+
+Firstname
+Surname
+Email
+Password
+Confirm Password
+
+Once you've done it try submitting an empty form and see if you get the expected response.
+

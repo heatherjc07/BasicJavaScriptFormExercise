@@ -1,0 +1,5 @@
+Lets change our success alert.
+
+We'll hide the correctly filled in form and display a success message including the entered name in the success div on the form
+
+*** note the success div is currently hidden so we need to make it visible ***

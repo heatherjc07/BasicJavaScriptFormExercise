@@ -1,0 +1,11 @@
+We can reuse innerHTML to reset the div content
+
+http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+
+all the divs share the same class so we can select them all by class
+
+http://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp
+
+then loop round them
+
+http://www.w3schools.com/js/js_loop_for.asp

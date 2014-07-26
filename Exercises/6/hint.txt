@@ -1,0 +1,7 @@
+If you look at the html file there is a div with the class error after each field
+You'll notice they all follow the same naming convention
+
+Check out getElementById() http://www.w3schools.com/jsref/met_doc_getelementbyid.asp
+
+Check out innerHTML http://www.w3schools.com/jsref/prop_html_innerhtml.asp 
+

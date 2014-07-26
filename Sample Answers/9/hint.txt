@@ -1,0 +1,7 @@
+Check out if ..else
+
+http://www.w3schools.com/js/js_if_else.asp
+
+Check out the length property
+
+http://www.w3schools.com/jsref/jsref_length_string.asp

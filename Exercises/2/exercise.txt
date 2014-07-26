@@ -1,0 +1,2 @@
+Create a function called validate which prints out an alert with the message 'Validating'
+Replace the alert in the last exercise with a call to the new function 

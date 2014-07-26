@@ -1,0 +1,3 @@
+Now lets implement the functionality behind the reset button.
+
+When we clear reset we want to clear the form and any errors.

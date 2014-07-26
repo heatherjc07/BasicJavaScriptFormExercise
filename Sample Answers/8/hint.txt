@@ -1,0 +1,7 @@
+Check out the reset method
+
+http://www.w3schools.com/jsref/met_form_reset.asp
+
+Check out the onclick event http://www.w3schools.com/jsref/event_onclick.asp
+
+and events in general http://www.w3schools.com/js/js_htmldom_events.asp

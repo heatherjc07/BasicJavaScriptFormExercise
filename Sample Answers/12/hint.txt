@@ -1,0 +1,5 @@
+In the css you'll see a hidden class. We want to take that off the success div and apply it to the form.
+
+Check out innerHTML http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+
+Check out className http://www.w3schools.com/jsref/prop_html_classname.asp

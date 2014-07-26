@@ -1,0 +1,5 @@
+Check out the Equality operators http://www.w3schools.com/js/js_comparisons.asp
+
+Check out the if operator http://www.w3schools.com/js/js_if_else.asp
+
+Keep your code DRY by putting the populated check in it's own function and passing the field or field value in

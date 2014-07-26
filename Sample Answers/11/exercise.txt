@@ -1,0 +1,2 @@
+We want to keep track of whether the form is populated correctly or not.
+If it is we want to display an alert at the end let the user know it looks good.

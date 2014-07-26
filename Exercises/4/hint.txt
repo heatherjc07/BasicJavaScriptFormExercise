@@ -1,0 +1,5 @@
+How can you uniquely identify the fields.... each has its own id
+
+Check out getElementById() http://www.w3schools.com/jsref/met_doc_getelementbyid.asp
+
+Check out example of getting a value from an element http://www.w3schools.com/jsref/prop_text_value.asp 

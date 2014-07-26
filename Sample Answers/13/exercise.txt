@@ -1,0 +1,13 @@
+Lets validate our email address
+
+It should contain a @ and a . after the @
+There should be at least two characters after the .
+
+*** Note: this is v basic validation. Take a look for an example using a regex to validate email addresses ***
+
+joe 			invalid
+joe@blogg		invalid
+joe@blogg.com		valid
+joe.bloggs@gmail.com	valid 
+joe.bloggs@gmail.	invalid
+joe.bloggs@.gmail	invalid

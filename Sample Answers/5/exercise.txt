@@ -1,0 +1,12 @@
+Now that we've figured out how to retrieve the form values let's have a go at checking that each one is populated.
+If not let's tell the user it has to be populated.
+Think about how to structure your code to avoid repeating yourself.
+
+Firstname
+Surname
+Email
+Password
+Confirm Password
+
+Once you've done it enter some values in the form. Try submitting it and see if you get the expected response.
+

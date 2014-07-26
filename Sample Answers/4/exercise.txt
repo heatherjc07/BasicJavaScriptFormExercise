@@ -1,0 +1,11 @@
+Update your validate function to retrieve the values from your form fields and alert them out to the screen.
+Think about how you can uniquely identify each one
+
+Firstname
+Surname
+Email
+Password
+Confirm Password
+
+Once you've done it enter some values in the form. Try submitting it and see if you get the expected response.
+

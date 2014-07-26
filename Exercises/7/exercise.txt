@@ -1,0 +1,9 @@
+Brilliant we've now got all the errors appearing to the screen but what happens if you try to resubmit the form with different values?
+The error messages from the first submission are still hanging about. We need a method to clear the error messages each time before we start validating.
+
+Create a function to clear the errors and call it at the start of your validate function.
+
+*** Think about what all the error divs have in commmon ***
+
+Once you've done it try submitting the form multiple times with different fields populated and see if you get the expected response.
+

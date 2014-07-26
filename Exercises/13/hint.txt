@@ -1,0 +1,3 @@
+Check out indexOf http://www.w3schools.com/jsref/jsref_indexof.asp
+Check out lastIndexOf http://www.w3schools.com/jsref/jsref_lastindexof.asp
+

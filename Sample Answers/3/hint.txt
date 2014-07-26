@@ -1,0 +1,1 @@
+Check out http://www.tutorialspoint.com/javascript/javascript_placement.htm JavaScript in External File
