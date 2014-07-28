@@ -72,13 +72,13 @@ function validate()
 		alert("All looks good");
 	}
 	
-	return false
+	return false;
 	
 }
 
 function isPopulated(field)
 {
-	return field.value != ""
+	return field.value !== "";
 }
 
  function addError(field, err)
@@ -93,5 +93,5 @@ function isPopulated(field)
 
 function areEqual(field1, field2)
 {
-	return field1.value === field2.value
+	return field1.value === field2.value;
 }

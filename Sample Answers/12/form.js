@@ -21,6 +21,8 @@ function validate()
 	var firstName = document.getElementById('inputFName');
 	var surname = document.getElementById('inputSName');
 	var email = document.getElementById('inputEmail');
+	var form = document.getElementById('form');
+	var success = document.getElementById('success');
 	var password = document.getElementById('inputPassword');
 	var password2 = document.getElementById('inputPassword2');
 	
@@ -74,13 +76,13 @@ function validate()
 		success.className = "";
 	}
 	
-	return false
+	return false;
 	
 }
 
 function isPopulated(field)
 {
-	return field.value != ""
+	return field.value !== "";
 }
 
  function addError(field, err)
@@ -95,5 +97,5 @@ function isPopulated(field)
 
 function areEqual(field1, field2)
 {
-	return field1.value === field2.value
+	return field1.value === field2.value;
 }

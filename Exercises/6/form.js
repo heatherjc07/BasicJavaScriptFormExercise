@@ -30,11 +30,11 @@ function validate()
 		alert("Confirm Password is required");
 	}
 	
-	return false
+	return false;
 	
 }
 
 function isPopulated(field)
 {
-	return field.value != ""
+	return field.value !== "";
 }

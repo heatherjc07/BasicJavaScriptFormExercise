@@ -47,13 +47,13 @@ function validate()
 		addError(password2, "Confirm Password is required");
 	}
 	
-	return false
+	return false;
 	
 }
 
 function isPopulated(field)
 {
-	return field.value != ""
+	return field.value !== "";
 }
 
  function addError(field, err)
